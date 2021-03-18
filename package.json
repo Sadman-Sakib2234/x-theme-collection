@@ -1,0 +1,46 @@
+{
+  "name": "x-theme-collection",
+  "displayName": "X Theme Collection",
+  "description": "It is a best theme and icon pack collection for vs code.",
+  "version": "0.0.1",
+  "icon": "images/icon.jpg",
+  "publisher": "Sadmanx64",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Extension Packs",
+    "Themes"
+  ],
+  "extensionPack": [
+    "vscode-icons-team.vscode-icons",
+    "PKief.material-icon-theme",
+    "zhuangtongfa.Material-theme",
+    "dracula-theme.theme-dracula",
+    "johnpapa.winteriscoming",
+    "ahmadawais.shades-of-purple",
+    "sdras.night-owl",
+    "wesbos.theme-cobalt2",
+    "RobbOwen.synthwave-vscode",
+    "dunstontc.dark-plus-syntax",
+    "felipe-mendes.slack-theme",
+    "uloco.theme-bluloco-dark",
+    "BeardedBear.beardedtheme",
+    "Nuuf.theme-hackershaze",
+    "Endormi.2077-theme",
+    "smlombardi.slime",
+    "nur.just-black",
+    "oguhpereira.spotify-color-theme",
+    "formulahendry.theme-ubuntu-style",
+    "silofy.hackthebox",
+    "enkia.tokyo-night",
+    "miguelsolorio.min-theme",
+    "marqu3s.aurora-x",
+    "codestackr.codestackr-theme",
+    "kast789.vs-2019-theme",
+    "schulke-214.orion",
+    "CoderCoder.codercoder-dark-theme",
+    "Equinusocio.vsc-material-theme",
+    "CoenraadS.bracket-pair-colorizer-2"
+  ]
+}
